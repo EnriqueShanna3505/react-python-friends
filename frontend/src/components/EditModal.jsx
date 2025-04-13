@@ -83,7 +83,7 @@ function EditModal({ setUsers, user }) {
         <ModalOverlay />
         <form onSubmit={handleEditUser}>
           <ModalContent>
-            <ModalHeader>My new BFF 😍</ModalHeader>
+            <ModalHeader>Subordinates 🔥</ModalHeader>
             <ModalCloseButton />
             <ModalBody pb={6}>
               <Flex alignItems={'center'} gap={4}>

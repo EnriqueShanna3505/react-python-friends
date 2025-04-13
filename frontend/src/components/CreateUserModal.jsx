@@ -154,7 +154,7 @@ const CreateUserModal = ({ setUsers }) => {
 
             <ModalFooter>
               <Button
-                colorScheme="blue"
+                colorScheme="green"
                 mr={3}
                 type="submit"
                 isLoading={isLoading}

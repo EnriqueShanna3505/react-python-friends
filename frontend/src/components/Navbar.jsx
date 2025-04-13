@@ -39,7 +39,7 @@ const Navbar = ({ setUsers }) => {
               fontWeight={500}
               display={{ base: 'none', md: 'block' }}
             >
-              BFFship 🔥
+              Subordinates 🔥
             </Text>
             <Button onClick={toggleColorMode}>
               {colorMode === 'light' ? <IoMoon /> : <LuSun size={20} />}
